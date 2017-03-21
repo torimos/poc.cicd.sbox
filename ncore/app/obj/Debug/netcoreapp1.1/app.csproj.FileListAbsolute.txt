@@ -1,9 +1,0 @@
-C:\Projects\sbox\ncore\app\bin\Debug\netcoreapp1.1\app.deps.json
-C:\Projects\sbox\ncore\app\bin\Debug\netcoreapp1.1\app.runtimeconfig.json
-C:\Projects\sbox\ncore\app\bin\Debug\netcoreapp1.1\app.runtimeconfig.dev.json
-C:\Projects\sbox\ncore\app\bin\Debug\netcoreapp1.1\app.dll
-C:\Projects\sbox\ncore\app\bin\Debug\netcoreapp1.1\app.pdb
-C:\Projects\sbox\ncore\app\obj\Debug\netcoreapp1.1\app.csprojResolveAssemblyReference.cache
-C:\Projects\sbox\ncore\app\obj\Debug\netcoreapp1.1\app.AssemblyInfo.cs
-C:\Projects\sbox\ncore\app\obj\Debug\netcoreapp1.1\app.dll
-C:\Projects\sbox\ncore\app\obj\Debug\netcoreapp1.1\app.pdb
