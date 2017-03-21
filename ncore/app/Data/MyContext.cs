@@ -16,6 +16,6 @@ namespace ncore.Data
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder) 
             => optionsBuilder
-                .UseSqlServer(@"Server=(LocalDb)\ncore;Database=MyDB;Trusted_Connection=True;");
+                .UseSqlite(@"Data Source=MyDB.db");
     }
 }
